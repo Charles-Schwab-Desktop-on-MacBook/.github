@@ -1,5 +1,5 @@
 # Charles Schwab on MacBook
-![logo-Schwab](https://www.schwab.com/sites/g/files/eyrktu1401/files/tosWeb_Update.png)
+![logo-Schwab](https://www.wikicorporates.org/mediawiki/images/thumb/d/d4/Charles-Schwab-2001.svg/500px-Charles-Schwab-2001.svg.png)
 
 **Charles Schwab for macOS** is a professional-grade platform for trading, retirement planning, and wealth management 💼📊.  
 This repository provides instructions and previews for **Charles Schwab on MacBook**.
@@ -40,14 +40,8 @@ Known for its **low fees, strong security, and reliability**, **Charles Schwab o
 
 ## 🖼 Preview
 
-![Schwab Dashboard](https://www.schwab.com/sites/g/files/eyrktu1401/files/Research%20Page%20with%20Border.png)  
+![Schwab Dashboard](https://daytradereview.com/wp-content/uploads/2018/01/Schwab-Web-Trader.png)  
 *Charles Schwab portfolio dashboard on Mac*  
-
-![Schwab Research](https://www.schwab.com/sites/g/files/eyrktu1401/files/StockResearch%20with%20Border.png)  
-*Research and market analysis tools*  
-
-![Schwab Trading](https://advisorservices.schwab.com/sites/g/files/eyrktu251/files/C0_Hero-image_608_WNJUN_2024%28nina%40totindustries.com%29%20%283%29%20%281%29.png)  
-*Stock trading interface*  
 
 ---
 
